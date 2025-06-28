@@ -23,4 +23,4 @@ This project analyzes cybersecurity threats globally using data from 2015 to 202
 - Most common attack types: DDoS, Phishing
 - Highest loss in IT & Finance sectors
 - Average resolution time: ~36 hours
-- 
+  
